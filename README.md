@@ -87,7 +87,7 @@ Shout out to [@kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-
 
 #### V1.3.1
 
-- Support **PingFang (苹方)**, the  new Chinese font presented by [OS X El Capitan](http://www.apple.com/cn/osx/whats-new/)
+- Support **PingFang (苹方)**, the new Chinese font presented by [OS X El Capitan](http://www.apple.com/cn/osx/whats-new/)
 
 
 #### V1.3
