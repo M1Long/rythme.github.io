@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Spacemacs Workflow"
+title: "My Spacemacs"
 subtitle: 'From Vim to Spacemacs'
 author: "RythmeWoo"
 header-style: text

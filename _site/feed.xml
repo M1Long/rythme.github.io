@@ -5,12 +5,12 @@
     <description>关于程序与设计、黑客与画家 | 黄玄，Web &amp; Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。</description>
     <link>https://huangxuan.me/</link>
     <atom:link href="https://huangxuan.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 17 Jun 2020 17:19:00 +0800</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2020 17:19:00 +0800</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2020 17:24:19 +0800</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2020 17:24:19 +0800</lastBuildDate>
     <generator>Jekyll v4.1.0</generator>
     
       <item>
-        <title>My Spacemacs Workflow</title>
+        <title>My Spacemacs</title>
         <description>&lt;p&gt;Though the overall experience is pretty smooth, many quirks about Spacemacs are always being forgotten and had to look up again and again, so I decided to open a note for some specific “workflow” that I often used.&lt;/p&gt;
 
 &lt;p&gt;Yes this is more like a note publishing online for the purpose of “on-demand accessible”. So don’t expect good writing anyways.&lt;/p&gt;
@@ -55,8 +55,8 @@
 
 </description>
         <pubDate>Wed, 17 Jun 2020 00:00:00 +0800</pubDate>
-        <link>https://huangxuan.me/2020/06/17/spacemacs-workflo/</link>
-        <guid isPermaLink="true">https://huangxuan.me/2020/06/17/spacemacs-workflo/</guid>
+        <link>https://huangxuan.me/2020/06/17/spacemacs/</link>
+        <guid isPermaLink="true">https://huangxuan.me/2020/06/17/spacemacs/</guid>
         
         <category>Vim</category>
         
