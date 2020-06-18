@@ -2,7 +2,7 @@
 layout: post
 title: "My Spacemacs"
 subtitle: 'From Vim to Spacemacs'
-author: "RythmeWoo"
+author: "Rythme"
 header-style: text
 tags:
   - Vim
